@@ -1,0 +1,4 @@
+email_history.json
+__pycache__/
+*.csv
+*.json
